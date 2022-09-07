@@ -1,0 +1,20 @@
+.mybtn {
+  padding: 8px 16px;
+  border: 0;
+  border-radius: 10px;
+  font-size: 2em;
+  transition: 0.3s all;
+  cursor: pointer;
+}
+
+.mybtn:hover {
+  filter: drop-shadow(0 0 0.075em black);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btnContainer .h1 {
+  text-align: center;
+}
